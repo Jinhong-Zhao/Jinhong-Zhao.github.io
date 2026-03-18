@@ -9,7 +9,7 @@ I am currently a third year PhD student at the School of Mathematics, Jilin Univ
 
 I obtained my Master degree in Applied Mathematics from Jilin University, under the supervision of Prof. Bin Guo.
 
-I obtain my Bachelor degree in Information and Computing Science from Tiangong University.
+I obtained my Bachelor degree in Information and Computing Science from Tiangong University.
 
 My research interests include the well-posedness, long time behavior and blow-up properties of the weak solutions to the fourth (higher)-order parabolic equations.
 
