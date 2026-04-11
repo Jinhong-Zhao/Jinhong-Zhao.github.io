@@ -28,7 +28,7 @@ Publications and Preprints
 
 2. Jinhong Zhao, Bin Guo. *Energy decay and blow-up of solutions to a coupled non-degenerate Kirchhoff–heat system with source term*. **Discrete and Continuous Dynamical Systems - Series S**, 17(12) (2024), 3342–3367.  
 
-3. Masahiro Ikeda, Jinhong Zhao*. *Optimal L²-blowup estimates of the fractional wave equation*. **Journal of Partial Differential Equations** (accepted, to appear).  
+3. Masahiro Ikeda, Jinhong Zhao* . *Optimal L²-blowup estimates of the fractional wave equation*. **Journal of Partial Differential Equations** (accepted, to appear).  
 
 4. Jinhong Zhao, Bin Guo. *Qualitative behavior of solutions to a forced nonlocal thin-film equation*. arXiv:2510.20289 (under review).  
 
