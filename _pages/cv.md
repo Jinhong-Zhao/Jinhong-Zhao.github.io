@@ -24,15 +24,15 @@ Publications and Preprints
 ======
 (* indicates corresponding author)
 
-1. Jinhong Zhao, Bin Guo, Jian Wang. *Global existence and blow-up of weak solutions for a fourth-order parabolic equation with gradient nonlinearity*. **Zeitschrift für angewandte Mathematik und Physik**, 75(1) (2024), Paper No. 12.  
+1. Jinhong Zhao, Bin Guo, Jian Wang* . *Global existence and blow-up of weak solutions for a fourth-order parabolic equation with gradient nonlinearity*. **Zeitschrift für angewandte Mathematik und Physik**, 75(1) (2024), Paper No. 12.  
 
-2. Jinhong Zhao, Bin Guo. *Energy decay and blow-up of solutions to a coupled non-degenerate Kirchhoff–heat system with source term*. **Discrete and Continuous Dynamical Systems - Series S**, 17(12) (2024), 3342–3367.  
+2. Jinhong Zhao, Bin Guo* . *Energy decay and blow-up of solutions to a coupled non-degenerate Kirchhoff–heat system with source term*. **Discrete and Continuous Dynamical Systems - Series S**, 17(12) (2024), 3342–3367.  
 
 3. Masahiro Ikeda, Jinhong Zhao* . *Optimal L²-blowup estimates of the fractional wave equation*. **Journal of Partial Differential Equations** (accepted, to appear).  
 
-4. Jinhong Zhao, Bin Guo. *Qualitative behavior of solutions to a forced nonlocal thin-film equation*. arXiv:2510.20289 (under review).  
+4. Jinhong Zhao, Bin Guo* . *Qualitative behavior of solutions to a forced nonlocal thin-film equation*. arXiv:2510.20289 (under review).  
 
-5. Jinhong Zhao, Bin Guo. *Asymptotic stability and the forcing term: an analysis of non-Newtonian thin-film flows*. arXiv:2511.04947 (under review).  
+5. Jinhong Zhao, Bin Guo* . *Asymptotic stability and the forcing term: an analysis of non-Newtonian thin-film flows*. arXiv:2511.04947 (under review).  
 
 Academic Activities
 ======
