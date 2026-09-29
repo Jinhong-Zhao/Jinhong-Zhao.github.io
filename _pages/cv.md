@@ -90,5 +90,5 @@ Honors and Awards
 
 Contact Information
 ======
-* **Email**: jhzhao23@mails.jlu.edu.cn  
-* **Address**: School of Mathematics, Jilin University, Changchun, China  
+* **Email**: jinhong.zhao@xawl.edu.cn  
+* **Address**: School of Artificial Intelligence and Big Data, Xi'an University, Shaanxi, China 
