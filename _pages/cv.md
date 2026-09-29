@@ -8,7 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download the PDF version of my CV [here](/files/zhao-EN-260329.pdf), and Chinese CV [here](/files/zhao-CN-260329.pdf).
+You can download the PDF version of my CV [here](/files/zhao-EN-260329.pdf), and Chinese CV [here](/files/zhao-CN-260329.pdf). 
+
+Professional Experience
+======
+* Lecturer, School of Artificial Intelligence and Big Data, Xi'an University, China (2026.09 – Present)
+* Teaching Assistant for Advanced Mathematics and Mathematical Physics Equations, Jilin University, China (2023.09 – 2024.07)
+* Graduate Teaching Assistant, School of Mathematics, Jilin University, China (2021.09 – 2022.01)    
+* Deputy Secretary of the Party Branch, School of Mathematical Sciences, Tiangong University, China (2018.09 – 2019.07)  
 
 Education
 ======
@@ -18,7 +25,17 @@ Education
 
 Research Interests
 ======
-* Well-posedness and qualitative properties of solutions to partial differential equations  
+* Well-posedness and qualitative properties of solutions to partial differential equations
+
+Teaching experience
+======
+* Instructor, Advanced Mathematics A1, School of Artificial Intelligence and Big Data, Xi'an University, China (2026.09 – 2027.01)
+
+Invited Talks
+======
+* Invited Talk for undergraduate students in the Department of Mathematics, School of Artificial Intelligence and Big Data, Xi'an University, China, September 2026
+* First “Zhuoqun Cup” Doctoral Academic Forum, School of Mathematics, Jilin University, China, November 2025  
+
 
 Publications and Preprints
 ======
@@ -34,10 +51,6 @@ Publications and Preprints
 
 5. Jinhong Zhao, Bin Guo* . *Asymptotic stability and the forcing term: an analysis of non-Newtonian thin-film flows*. arXiv:2511.04947 (under review).
 
-Invited Talks
-======
-* Invited Talk for undergraduate students in the Department of Mathematics, School of Artificial Intelligence and Big Data, Xi'an University, China, September 2026
-* First “Zhuoqun Cup” Doctoral Academic Forum, School of Mathematics, Jilin University, China, November 2025  
 
 Academic Activities
 ======
@@ -47,12 +60,7 @@ Academic Activities
 * First Tianyuan Northeast Center PDE Youth Forum, Jilin University, China, May 2025  
 
 
-Professional Experience
-======
-* Lecturer, School of Artificial Intelligence and Big Data, Xi'an University, China (2026.09 – Present)
-* Teaching Assistant for Advanced Mathematics and Mathematical Physics Equations, Jilin University, China (2023.09 – 2024.07)
-* Graduate Teaching Assistant, School of Mathematics, Jilin University, China (2021.09 – 2022.01)    
-* Deputy Secretary of the Party Branch, School of Mathematical Sciences, Tiangong University, China (2018.09 – 2019.07)  
+
 
 
 
