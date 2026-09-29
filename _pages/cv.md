@@ -30,9 +30,14 @@ Publications and Preprints
 
 3. Masahiro Ikeda, Jinhong Zhao* . *Optimal L²-blowup estimates of the fractional wave equation*. **Journal of Partial Differential Equations** (accepted, to appear).  
 
-4. Jinhong Zhao, Bin Guo* . *Qualitative behavior of solutions to a forced nonlocal thin-film equation*. arXiv:2510.20289 (under review).  
+4. Jinhong Zhao, Bin Guo* . *Qualitative behavior of solutions to a forced nonlocal thin-film equation*. (accepted, to appear).  
 
-5. Jinhong Zhao, Bin Guo* . *Asymptotic stability and the forcing term: an analysis of non-Newtonian thin-film flows*. arXiv:2511.04947 (under review).  
+5. Jinhong Zhao, Bin Guo* . *Asymptotic stability and the forcing term: an analysis of non-Newtonian thin-film flows*. arXiv:2511.04947 (under review).
+
+Invited Talks
+======
+* Invited Talk for undergraduate students in the Department of Mathematics, School of Artificial Intelligence and Big Data, Xi'an University, China, September 2026
+* First “Zhuoqun Cup” Doctoral Academic Forum, School of Mathematics, Jilin University, China, November 2025  
 
 Academic Activities
 ======
@@ -40,13 +45,16 @@ Academic Activities
 * 20th Summer School on Partial Differential Equations, Hunan University, China, August 2022  
 * 5th–6th National Doctoral Forum on Partial Differential Equations, Jilin University, China, September 2023  
 * First Tianyuan Northeast Center PDE Youth Forum, Jilin University, China, May 2025  
-* First “Zhuoqun Cup” Doctoral Academic Forum, School of Mathematics, Jilin University, China, November 2025  
+
 
 Professional Experience
 ======
-* Deputy Secretary of the Party Branch, School of Mathematical Sciences, Tiangong University (2018.09 – 2019.07)  
-* Graduate Teaching Assistant, School of Mathematics, Jilin University (2021.09 – 2022.01)  
-* Teaching Assistant for Advanced Mathematics and Mathematical Physics Equations, Jilin University (2023.09 – 2024.07)  
+* Lecturer, School of Artificial Intelligence and Big Data, Xi'an University, China (2026.09 – Present)
+* Teaching Assistant for Advanced Mathematics and Mathematical Physics Equations, Jilin University, China (2023.09 – 2024.07)
+* Graduate Teaching Assistant, School of Mathematics, Jilin University, China (2021.09 – 2022.01)    
+* Deputy Secretary of the Party Branch, School of Mathematical Sciences, Tiangong University, China (2018.09 – 2019.07)  
+
+
 
 Honors and Awards
 ======
