@@ -12,7 +12,7 @@ You can download the PDF version of my CV [here](/files/zhao-EN-260329.pdf), and
 
 Education
 ======
-* Ph.D. in Pure Mathematics, School of Mathematics, Jilin University, China (2023.09 – present). Advisor: Prof. Huilai Li  
+* Ph.D. in Pure Mathematics, School of Mathematics, Jilin University, China (2023.09 – 2026.06). Advisor: Prof. Huilai Li  
 * M.S. in Applied Mathematics (recommended for admission without entrance exam), School of Mathematics, Jilin University, China (2020.09 – 2023.06). Advisor: Prof. Bin Guo  
 * B.S. in Information and Computing Science, School of Mathematical Sciences, Tiangong University, China (2016.09 – 2020.06). GPA: 92.52/100. Advisor: Prof. Yongzhen Pei  
 
